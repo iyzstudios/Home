@@ -1,0 +1,68 @@
+@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
+@import url("font-awesome.min.css");
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+@import url('https://fonts.googleapis.com/css?family=Inconsolata:400,700');
+.body{
+	background-color: white;
+	position: relative;
+	margin: 25px;
+}
+.logo{
+	padding: 2px;
+	border-color: black;
+	border-width: 4;
+	border-radius: 10px;
+	border-style: solid;
+	height: 100px;
+	width: 100px;
+	float: left;
+	/*padding-right: 100%;*/
+}
+.nav{
+	float: left;
+	color: black;
+	font-family: 'Inconsolata', monospace;
+	font-size: 23px;
+}
+.subnav{
+	display: block;
+	float: right;
+	color: black;
+	font-family: 'Inconsolata', monospace;
+	font-size: 15px;
+
+}
+	
+
+
+a{
+	font-style: bold;
+	color: black;
+}
+.coverpic{
+	width: 750px;
+	height: auto;
+	text-align: center;
+	position: relative;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+.centerpicdiv{
+	text-align: center;
+	position: static;
+}
+.thumbs{
+	width: 100px;	
+	margin-left: 100;
+	margin-right: 100;
+}
+.lspace{
+	text-align: center;
+	
+}
+.ar{
+	text-align: center;
+	
+}
